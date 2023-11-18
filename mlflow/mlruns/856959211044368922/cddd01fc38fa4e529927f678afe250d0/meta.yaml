@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/GitHub/Regression-with-a-Mohs-Hardness-Dataset/mlflow/mlruns/856959211044368922/cddd01fc38fa4e529927f678afe250d0/artifacts
+end_time: 1700256955802
+entry_point_name: ''
+experiment_id: '856959211044368922'
+lifecycle_stage: active
+run_id: cddd01fc38fa4e529927f678afe250d0
+run_name: ExtraTreesRegressor
+run_uuid: cddd01fc38fa4e529927f678afe250d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700256953265
+status: 3
+tags: []
+user_id: Srush

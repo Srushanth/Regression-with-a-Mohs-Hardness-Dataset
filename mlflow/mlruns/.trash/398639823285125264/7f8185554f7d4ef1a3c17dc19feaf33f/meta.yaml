@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/GitHub/Regression-with-a-Mohs-Hardness-Dataset/mlflow/mlruns/398639823285125264/7f8185554f7d4ef1a3c17dc19feaf33f/artifacts
+deleted_time: 1700254251458
+end_time: 1700253847923
+entry_point_name: ''
+experiment_id: '398639823285125264'
+lifecycle_stage: deleted
+run_id: 7f8185554f7d4ef1a3c17dc19feaf33f
+run_name: chill-cat-151
+run_uuid: 7f8185554f7d4ef1a3c17dc19feaf33f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700253844278
+status: 3
+tags: []
+user_id: Srush

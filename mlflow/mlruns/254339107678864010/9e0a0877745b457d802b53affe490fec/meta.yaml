@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/GitHub/Regression-with-a-Mohs-Hardness-Dataset/mlflow/mlruns/254339107678864010/9e0a0877745b457d802b53affe490fec/artifacts
+end_time: 1700172574341
+entry_point_name: ''
+experiment_id: '254339107678864010'
+lifecycle_stage: active
+run_id: 9e0a0877745b457d802b53affe490fec
+run_name: HistGradientBoostingRegressor
+run_uuid: 9e0a0877745b457d802b53affe490fec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700172571424
+status: 3
+tags: []
+user_id: Srush

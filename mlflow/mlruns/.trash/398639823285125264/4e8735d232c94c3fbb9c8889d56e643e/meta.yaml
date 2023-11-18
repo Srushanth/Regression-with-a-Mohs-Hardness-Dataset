@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/GitHub/Regression-with-a-Mohs-Hardness-Dataset/mlflow/mlruns/398639823285125264/4e8735d232c94c3fbb9c8889d56e643e/artifacts
+deleted_time: 1700254251458
+end_time: 1700253570926
+entry_point_name: ''
+experiment_id: '398639823285125264'
+lifecycle_stage: deleted
+run_id: 4e8735d232c94c3fbb9c8889d56e643e
+run_name: resilient-turtle-397
+run_uuid: 4e8735d232c94c3fbb9c8889d56e643e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700253566988
+status: 3
+tags: []
+user_id: Srush

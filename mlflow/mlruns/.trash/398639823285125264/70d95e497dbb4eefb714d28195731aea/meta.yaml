@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/GitHub/Regression-with-a-Mohs-Hardness-Dataset/mlflow/mlruns/398639823285125264/70d95e497dbb4eefb714d28195731aea/artifacts
+deleted_time: 1700254251458
+end_time: 1700253874738
+entry_point_name: ''
+experiment_id: '398639823285125264'
+lifecycle_stage: deleted
+run_id: 70d95e497dbb4eefb714d28195731aea
+run_name: amazing-auk-940
+run_uuid: 70d95e497dbb4eefb714d28195731aea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700253870878
+status: 3
+tags: []
+user_id: Srush

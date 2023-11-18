@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/GitHub/Regression-with-a-Mohs-Hardness-Dataset/mlflow/mlruns/398639823285125264/7d69b1622fbd462c9b904e96c30bc52f/artifacts
+deleted_time: 1700254251458
+end_time: 1700253712613
+entry_point_name: ''
+experiment_id: '398639823285125264'
+lifecycle_stage: deleted
+run_id: 7d69b1622fbd462c9b904e96c30bc52f
+run_name: treasured-crane-456
+run_uuid: 7d69b1622fbd462c9b904e96c30bc52f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700253708827
+status: 3
+tags: []
+user_id: Srush

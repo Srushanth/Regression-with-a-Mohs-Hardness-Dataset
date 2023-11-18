@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/GitHub/Regression-with-a-Mohs-Hardness-Dataset/mlflow/mlruns/398639823285125264/dedf3c8b82754384bed444c507a10c42/artifacts
+deleted_time: 1700254251458
+end_time: 1700253661516
+entry_point_name: ''
+experiment_id: '398639823285125264'
+lifecycle_stage: deleted
+run_id: dedf3c8b82754384bed444c507a10c42
+run_name: incongruous-auk-737
+run_uuid: dedf3c8b82754384bed444c507a10c42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700253657851
+status: 3
+tags: []
+user_id: Srush

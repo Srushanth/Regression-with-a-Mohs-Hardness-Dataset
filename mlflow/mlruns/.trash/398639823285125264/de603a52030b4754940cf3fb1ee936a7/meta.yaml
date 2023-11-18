@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/GitHub/Regression-with-a-Mohs-Hardness-Dataset/mlflow/mlruns/398639823285125264/de603a52030b4754940cf3fb1ee936a7/artifacts
+deleted_time: 1700254251458
+end_time: 1700253716556
+entry_point_name: ''
+experiment_id: '398639823285125264'
+lifecycle_stage: deleted
+run_id: de603a52030b4754940cf3fb1ee936a7
+run_name: fortunate-rook-866
+run_uuid: de603a52030b4754940cf3fb1ee936a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700253712619
+status: 3
+tags: []
+user_id: Srush

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/GitHub/Regression-with-a-Mohs-Hardness-Dataset/mlflow/mlruns/398639823285125264/35a9d498e10c4dffa34c97a91ccd7003/artifacts
+deleted_time: 1700254251458
+end_time: 1700253643609
+entry_point_name: ''
+experiment_id: '398639823285125264'
+lifecycle_stage: deleted
+run_id: 35a9d498e10c4dffa34c97a91ccd7003
+run_name: bright-lark-155
+run_uuid: 35a9d498e10c4dffa34c97a91ccd7003
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700253640295
+status: 3
+tags: []
+user_id: Srush

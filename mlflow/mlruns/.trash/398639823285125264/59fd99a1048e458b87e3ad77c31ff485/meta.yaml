@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/GitHub/Regression-with-a-Mohs-Hardness-Dataset/mlflow/mlruns/398639823285125264/59fd99a1048e458b87e3ad77c31ff485/artifacts
+deleted_time: 1700254251458
+end_time: 1700253599191
+entry_point_name: ''
+experiment_id: '398639823285125264'
+lifecycle_stage: deleted
+run_id: 59fd99a1048e458b87e3ad77c31ff485
+run_name: suave-deer-500
+run_uuid: 59fd99a1048e458b87e3ad77c31ff485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700253595787
+status: 3
+tags: []
+user_id: Srush

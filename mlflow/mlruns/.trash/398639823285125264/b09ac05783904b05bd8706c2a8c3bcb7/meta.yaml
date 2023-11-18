@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/GitHub/Regression-with-a-Mohs-Hardness-Dataset/mlflow/mlruns/398639823285125264/b09ac05783904b05bd8706c2a8c3bcb7/artifacts
+deleted_time: 1700254251458
+end_time: 1700253691549
+entry_point_name: ''
+experiment_id: '398639823285125264'
+lifecycle_stage: deleted
+run_id: b09ac05783904b05bd8706c2a8c3bcb7
+run_name: vaunted-finch-809
+run_uuid: b09ac05783904b05bd8706c2a8c3bcb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700253687680
+status: 3
+tags: []
+user_id: Srush

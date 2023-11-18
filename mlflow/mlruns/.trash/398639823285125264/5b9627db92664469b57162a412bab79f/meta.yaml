@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/GitHub/Regression-with-a-Mohs-Hardness-Dataset/mlflow/mlruns/398639823285125264/5b9627db92664469b57162a412bab79f/artifacts
+deleted_time: 1700254251458
+end_time: 1700253762249
+entry_point_name: ''
+experiment_id: '398639823285125264'
+lifecycle_stage: deleted
+run_id: 5b9627db92664469b57162a412bab79f
+run_name: unleashed-wolf-313
+run_uuid: 5b9627db92664469b57162a412bab79f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700253758333
+status: 3
+tags: []
+user_id: Srush

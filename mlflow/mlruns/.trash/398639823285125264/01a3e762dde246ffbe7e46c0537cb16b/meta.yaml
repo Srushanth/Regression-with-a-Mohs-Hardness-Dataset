@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/GitHub/Regression-with-a-Mohs-Hardness-Dataset/mlflow/mlruns/398639823285125264/01a3e762dde246ffbe7e46c0537cb16b/artifacts
+deleted_time: 1700254251458
+end_time: 1700253878755
+entry_point_name: ''
+experiment_id: '398639823285125264'
+lifecycle_stage: deleted
+run_id: 01a3e762dde246ffbe7e46c0537cb16b
+run_name: carefree-duck-745
+run_uuid: 01a3e762dde246ffbe7e46c0537cb16b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700253874744
+status: 3
+tags: []
+user_id: Srush

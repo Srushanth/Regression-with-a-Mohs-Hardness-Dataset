@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/GitHub/Regression-with-a-Mohs-Hardness-Dataset/mlflow/mlruns/398639823285125264/8ebacdc97d9f41708bc705c4e744d500/artifacts
+deleted_time: 1700254251458
+end_time: 1700253804979
+entry_point_name: ''
+experiment_id: '398639823285125264'
+lifecycle_stage: deleted
+run_id: 8ebacdc97d9f41708bc705c4e744d500
+run_name: merciful-gnat-212
+run_uuid: 8ebacdc97d9f41708bc705c4e744d500
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700253801324
+status: 3
+tags: []
+user_id: Srush

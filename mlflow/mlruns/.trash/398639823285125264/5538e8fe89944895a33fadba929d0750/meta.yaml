@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/GitHub/Regression-with-a-Mohs-Hardness-Dataset/mlflow/mlruns/398639823285125264/5538e8fe89944895a33fadba929d0750/artifacts
+deleted_time: 1700254251458
+end_time: 1700253592913
+entry_point_name: ''
+experiment_id: '398639823285125264'
+lifecycle_stage: deleted
+run_id: 5538e8fe89944895a33fadba929d0750
+run_name: worried-squirrel-48
+run_uuid: 5538e8fe89944895a33fadba929d0750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700253590251
+status: 3
+tags: []
+user_id: Srush

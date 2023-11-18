@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/GitHub/Regression-with-a-Mohs-Hardness-Dataset/mlflow/mlruns/398639823285125264/2dea2987617c4ecfaedc37ff60708d43/artifacts
+deleted_time: 1700254251458
+end_time: 1700253797892
+entry_point_name: ''
+experiment_id: '398639823285125264'
+lifecycle_stage: deleted
+run_id: 2dea2987617c4ecfaedc37ff60708d43
+run_name: skillful-mouse-8
+run_uuid: 2dea2987617c4ecfaedc37ff60708d43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700253794976
+status: 3
+tags: []
+user_id: Srush

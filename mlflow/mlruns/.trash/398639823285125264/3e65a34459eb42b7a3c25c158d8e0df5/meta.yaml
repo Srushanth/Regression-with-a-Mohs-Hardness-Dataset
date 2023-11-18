@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/GitHub/Regression-with-a-Mohs-Hardness-Dataset/mlflow/mlruns/398639823285125264/3e65a34459eb42b7a3c25c158d8e0df5/artifacts
+deleted_time: 1700254251458
+end_time: 1700253855233
+entry_point_name: ''
+experiment_id: '398639823285125264'
+lifecycle_stage: deleted
+run_id: 3e65a34459eb42b7a3c25c158d8e0df5
+run_name: dazzling-stag-159
+run_uuid: 3e65a34459eb42b7a3c25c158d8e0df5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700253851822
+status: 3
+tags: []
+user_id: Srush

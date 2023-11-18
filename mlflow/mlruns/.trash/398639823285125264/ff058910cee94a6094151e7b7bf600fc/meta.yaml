@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/GitHub/Regression-with-a-Mohs-Hardness-Dataset/mlflow/mlruns/398639823285125264/ff058910cee94a6094151e7b7bf600fc/artifacts
+deleted_time: 1700254251458
+end_time: 1700253731326
+entry_point_name: ''
+experiment_id: '398639823285125264'
+lifecycle_stage: deleted
+run_id: ff058910cee94a6094151e7b7bf600fc
+run_name: gaudy-kite-214
+run_uuid: ff058910cee94a6094151e7b7bf600fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700253727644
+status: 3
+tags: []
+user_id: Srush

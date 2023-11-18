@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/GitHub/Regression-with-a-Mohs-Hardness-Dataset/mlflow/mlruns/398639823285125264/6c488cb25e7b471e8bcbb4c53e721e2f/artifacts
+deleted_time: 1700254251458
+end_time: 1700253825858
+entry_point_name: ''
+experiment_id: '398639823285125264'
+lifecycle_stage: deleted
+run_id: 6c488cb25e7b471e8bcbb4c53e721e2f
+run_name: overjoyed-mouse-974
+run_uuid: 6c488cb25e7b471e8bcbb4c53e721e2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700253822468
+status: 3
+tags: []
+user_id: Srush

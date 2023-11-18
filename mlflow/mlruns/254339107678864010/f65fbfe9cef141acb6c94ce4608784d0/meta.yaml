@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/GitHub/Regression-with-a-Mohs-Hardness-Dataset/mlflow/mlruns/254339107678864010/f65fbfe9cef141acb6c94ce4608784d0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '254339107678864010'
+lifecycle_stage: active
+run_id: f65fbfe9cef141acb6c94ce4608784d0
+run_name: LADRegression
+run_uuid: f65fbfe9cef141acb6c94ce4608784d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700172749472
+status: 1
+tags: []
+user_id: Srush

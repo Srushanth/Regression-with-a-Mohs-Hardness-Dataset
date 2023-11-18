@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/GitHub/Regression-with-a-Mohs-Hardness-Dataset/mlflow/mlruns/398639823285125264/1ae0687cdc844ea99bf5c8466719ef1e/artifacts
+deleted_time: 1700254251458
+end_time: 1700253654196
+entry_point_name: ''
+experiment_id: '398639823285125264'
+lifecycle_stage: deleted
+run_id: 1ae0687cdc844ea99bf5c8466719ef1e
+run_name: angry-crab-264
+run_uuid: 1ae0687cdc844ea99bf5c8466719ef1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700253650875
+status: 3
+tags: []
+user_id: Srush

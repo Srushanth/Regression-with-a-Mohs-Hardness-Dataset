@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/GitHub/Regression-with-a-Mohs-Hardness-Dataset/mlflow/mlruns/398639823285125264/7a472b1d99ba44f6b5be9381f673375a/artifacts
+deleted_time: 1700254251458
+end_time: 1700253657845
+entry_point_name: ''
+experiment_id: '398639823285125264'
+lifecycle_stage: deleted
+run_id: 7a472b1d99ba44f6b5be9381f673375a
+run_name: bemused-conch-708
+run_uuid: 7a472b1d99ba44f6b5be9381f673375a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700253654202
+status: 3
+tags: []
+user_id: Srush

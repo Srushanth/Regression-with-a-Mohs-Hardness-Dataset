@@ -1,0 +1,12 @@
+ipython
+ipykernel
+pandas
+scikit-learn
+optuna
+catboost
+xgboost
+lightgbm
+mlflow
+seaborn
+matplotlib
+sklego

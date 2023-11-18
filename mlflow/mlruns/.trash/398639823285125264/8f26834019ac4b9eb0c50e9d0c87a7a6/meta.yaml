@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/GitHub/Regression-with-a-Mohs-Hardness-Dataset/mlflow/mlruns/398639823285125264/8f26834019ac4b9eb0c50e9d0c87a7a6/artifacts
+deleted_time: 1700254251458
+end_time: 1700253890179
+entry_point_name: ''
+experiment_id: '398639823285125264'
+lifecycle_stage: deleted
+run_id: 8f26834019ac4b9eb0c50e9d0c87a7a6
+run_name: fun-chimp-899
+run_uuid: 8f26834019ac4b9eb0c50e9d0c87a7a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700253886176
+status: 3
+tags: []
+user_id: Srush

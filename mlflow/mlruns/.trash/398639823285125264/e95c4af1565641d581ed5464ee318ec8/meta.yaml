@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/GitHub/Regression-with-a-Mohs-Hardness-Dataset/mlflow/mlruns/398639823285125264/e95c4af1565641d581ed5464ee318ec8/artifacts
+deleted_time: 1700254251458
+end_time: 1700253788248
+entry_point_name: ''
+experiment_id: '398639823285125264'
+lifecycle_stage: deleted
+run_id: e95c4af1565641d581ed5464ee318ec8
+run_name: useful-worm-893
+run_uuid: e95c4af1565641d581ed5464ee318ec8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700253785299
+status: 3
+tags: []
+user_id: Srush
