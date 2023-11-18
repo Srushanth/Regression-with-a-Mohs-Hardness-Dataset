@@ -1,6 +1,0 @@
-artifact_location: file:///c:/GitHub/Regression-with-a-Mohs-Hardness-Dataset/mlflow/mlruns/856959211044368922
-creation_time: 1700254255511
-experiment_id: '856959211044368922'
-last_update_time: 1700254255511
-lifecycle_stage: active
-name: FeatureSelection
