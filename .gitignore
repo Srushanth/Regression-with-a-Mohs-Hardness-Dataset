@@ -1,5 +1,6 @@
 data/
-mlflow/mlflow/
+mlflow/mlruns/
+mlflow/catboost_info
 submission/
 
 # Byte-compiled / optimized / DLL files
